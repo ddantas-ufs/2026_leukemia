@@ -44,7 +44,7 @@ We provide the trained model parameters and the recorded metric to facilitate co
 
 The checkpoint file (`.pth`) containing the learned weights of the Swin Transformer model.
 
-* **Download Link:** [https://drive.google.com/file/d/1b4C0jr9QEnslJketPI9IkWPZVXivjLqr/view?usp=sharing](https://drive.google.com/file/d/1b4C0jr9qenslJketPI9IkWPZVXivjLqr/view?usp=sharing)
+* **Download Link:** [https://drive.google.com/file/d/1b4C0jr9QEnslJketPI9IkWPZVXivjLqr/view?usp=sharing](https://drive.google.com/file/d/1b4C0jr9QEnslJketPI9IkWPZVXivjLqr/view?usp=sharing)
 
 ### B. **Archived Training Metrics (Article Results)**
 
