@@ -48,7 +48,7 @@ The checkpoint file (`.pth`) containing the learned weights of the Swin Transfor
 
 ### B. **Archived Training Metrics (Article Results)**
 
-Containing the Loss, Accuracy, F1-Score, etc., captured Test Results of the final run.
+Containing the Loss, Accuracy, F1-Score, etc., captured Test Results from the final run.
 
 * **Download Link:** [https://drive.google.com/file/d/1FZoq-mJmUjUEQGX2kk-6IrTCTBk84MmD/view?usp=sharing](https://drive.google.com/file/d/1FZoq-mJmUjUEQGX2kk-6IrTCTBk84MmD/view?usp=sharing)
 
@@ -56,10 +56,18 @@ Containing the Loss, Accuracy, F1-Score, etc., captured Test Results of the fina
 
 ## 🧑‍💻 **Authors & Contribution**
 
-**[⚠️ INSERT AUTHORS' NAMES AND AFFILIATIONS HERE ⚠️]**
+* **Douglas Costa Braga** $^a$
+* **Albert de Jesus Souza** $^a$
+* **Samuel Bastos Borges Pinho** $^a$
+* **Daniel Oliveira Dantas** $^b$
+
+$^a$ Departamento de Computação, Universidade Federal de Sergipe, São Cristóvão, SE, Brasil
+$^b$ Departamento de Computação, Universidade Federal de Sergipe, São Cristóvão, SE, Brasil
 
 ### Contact
 
 For any questions regarding the code or the paper's methodology, please contact:
 
-* **[Contact Person Name]** - [Email Address]
+* **Albert de Jesus Souza** - [albert.souza@dcomp.ufs.br](mailto:albert.souza@dcomp.ufs.br)
+* **Samuel Bastos Borges Pinho** - [samuel.pinho@dcomp.ufs.br](mailto:samuel.pinho@dcomp.ufs.br)
+* **Daniel Oliveira Dantas** - [ddantas@dcomp.ufs.br](mailto:ddantas@dcomp.ufs.br)
