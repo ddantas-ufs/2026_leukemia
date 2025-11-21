@@ -38,7 +38,7 @@ All core experiments and results reported in the article were executed on the **
 
 ## 💾 **Pre-trained Files & Metrics**
 
-We provide the trained model parameters and the recorded metric history to facilitate comparison and retraining.
+We provide the trained model parameters and the recorded metric to facilitate comparison and retraining.
 
 ### A. **Trained Model Parameters (for Retraining)**
 
@@ -48,7 +48,7 @@ The checkpoint file (`.pth`) containing the learned weights of the Swin Transfor
 
 ### B. **Archived Training Metrics (Article Results)**
 
-The raw data (`.csv` or similar format) containing the Loss, Accuracy, F1-Score, etc., recorded across all epochs of the final training run.
+Containing the Loss, Accuracy, F1-Score, etc., captured Test Results of the final run.
 
 * **Download Link:** [https://drive.google.com/file/d/1FZoq-mJmUjUEQGX2kk-6IrTCTBk84MmD/view?usp=sharing](https://drive.google.com/file/d/1FZoq-mJmUjUEQGX2kk-6IrTCTBk84MmD/view?usp=sharing)
 
