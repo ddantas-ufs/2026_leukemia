@@ -56,13 +56,12 @@ Containing the Loss, Accuracy, F1-Score, etc., captured Test Results from the fi
 
 ## 🧑‍💻 **Authors & Contribution**
 
-* **Douglas Costa Braga** $^a$
-* **Albert de Jesus Souza** $^a$
-* **Samuel Bastos Borges Pinho** $^a$
-* **Daniel Oliveira Dantas** $^b$
+* Douglas Costa Braga<sup>a</sup>
+* Albert de Jesus Souza<sup>a</sup>
+* Samuel Bastos Borges Pinho<sup>a</sup>
+* Daniel Oliveira Dantas<sup>a</sup>
 
-$^a$ Departamento de Computação, Universidade Federal de Sergipe, São Cristóvão, SE, Brasil
-$^b$ Departamento de Computação, Universidade Federal de Sergipe, São Cristóvão, SE, Brasil
+<sup>a</sup> Departamento de Computação, Universidade Federal de Sergipe, São Cristóvão, SE, Brasil
 
 ### Contact
 
