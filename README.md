@@ -9,7 +9,25 @@ This repository contains the source code and necessary files to reproduce the fi
 ## 📄 **Article Citation**
 
 If this repository is associated with a published paper, please cite it as follows:
-**[⚠️ INSERT AUTHORS AND CITATION HERE ⚠️]**
+
+Douglas Costa Braga, Albert de Jesus Souza, Samuel Bastos Borges Pinho, and Daniel Oliveira Dantas (in press). Classification of normal versus leukemic cells with Swin Transformer and balanced data augmentation. In Proceedings of the 21st International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, volume 4, VISAPP, pages xxx–xxx. INSTICC, SciTePress.
+
+```
+@inproceedings{Braga2026leukemic,
+  author={Braga, Douglas Costa and Souza and Albert de Jesus and Pinho, Samuel Bastos Borges Pinho and Dantas, Daniel Oliveira},
+  title={Classification of Normal versus Leukemic Cells with Swin Transformer and Balanced Data Augmentation},
+  booktitle={Proceedings of the 21st International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+  volume={4, VISAPP},
+  year={in press},
+  pages={xxx--xxx},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/xxxxxxxxxxxxxxx},
+  isbn={978-989-758-488-6},
+  issn={2184-4321},
+}
+```
+
 
 ---
 
